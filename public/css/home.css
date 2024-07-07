@@ -1,7 +1,6 @@
 .home_page{
     display: flex;
     flex-direction: column;
-    padding-bottom: 60px;
 }
 
 .white_svg {
@@ -817,7 +816,9 @@ color: rgb(98, 105, 116);
     flex-direction: row;
     justify-content: center;
     
+    
     background-image: url("../images/indexhome/event_frame/Group\ 33.png");
+    background-size: cover;
 
 }
 .event_frame .container{
@@ -936,3 +937,4 @@ color: rgb(98, 105, 116);
     align-items: center;
     justify-content: center;
 }
+
